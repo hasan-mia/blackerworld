@@ -1,0 +1,8 @@
+=============================================
+=			Blacker World Dev				=
+=============================================
+
+1. Banner = id > title > description > meta description >
+INSERT INTO `banner_models` (`id`, `title`, `paragraph`, `meta`, `link`, `created_at`, `updated_at`) VALUES ('1', 'Modern Information Protect From Hackers', 'Cybersecurity is the protection from the theft\r\n to protect of our computer systems and networks or being damaged of our hardware and\r\n software.', 'World Class Cyber Security', 'https://www.youtube.com/watch?v=sdpxddDzXfE', '2021-11-22 23:41:04', '2021-11-23 23:41:04');
+
+2.
